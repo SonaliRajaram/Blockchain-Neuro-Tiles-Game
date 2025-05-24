@@ -1,7 +1,7 @@
 ## Blockchain Memory Game
 
 A decentralized memory game built on the Ethereum blockchain. Players match cards to earn unique NFT rewards, demonstrating blockchain integration with interactive web applications.
-It is built for Mild Cognitive Impairement (MCI) Patients to improve their memory retention.
+It is deployed for Mild Cognitive Impairement (MCI) Patients to improve their memory retention.
 
 ## Features
 
