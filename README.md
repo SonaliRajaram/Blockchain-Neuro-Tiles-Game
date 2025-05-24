@@ -40,11 +40,12 @@ Blockchain_Memory_Game/
 
 ## Installation & Setup
 Prerequisites
--- Node.js (v16 or higher recommended)
--- Truffle globally:
--- npm install -g truffle
--- Ganache (GUI or CLI)
--- MetaMask browser extension
+
+- Node.js (v16 or higher recommended)
+- Truffle globally:
+- npm install -g truffle
+- Ganache (GUI or CLI)
+- MetaMask browser extension
 
 ## Steps
 1.Clone the repository:
